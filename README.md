@@ -8,8 +8,8 @@ This is a Practice for JavaScript DOM Class WEB2CVII TEAM 1
 
 ### Links
 
-- Solution URL: (https://github.com/Daslaw/accordion_card.git)
-- Live Site URL:(https://daslaw.github.io/accordion_card/)
+- Solution URL: (https://github.com/Daslaw/BookList.git)
+- Live Site URL:(https://daslaw.github.io/BookList/)
 
 ### Built with
 
